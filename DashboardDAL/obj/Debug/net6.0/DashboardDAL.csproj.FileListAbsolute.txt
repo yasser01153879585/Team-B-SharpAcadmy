@@ -1,0 +1,13 @@
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\bin\Debug\net6.0\DashboardDAL.deps.json
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\bin\Debug\net6.0\DashboardDAL.runtimeconfig.json
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\bin\Debug\net6.0\DashboardDAL.dll
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\bin\Debug\net6.0\ref\DashboardDAL.dll
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\bin\Debug\net6.0\DashboardDAL.pdb
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\obj\Debug\net6.0\DashboardDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\obj\Debug\net6.0\DashboardDAL.AssemblyInfoInputs.cache
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\obj\Debug\net6.0\DashboardDAL.AssemblyInfo.cs
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\obj\Debug\net6.0\DashboardDAL.csproj.CoreCompileInputs.cache
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\obj\Debug\net6.0\DashboardDAL.dll
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\obj\Debug\net6.0\ref\DashboardDAL.dll
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\obj\Debug\net6.0\DashboardDAL.pdb
+C:\Users\yasser\source\repos\DashBoardProject\DashboardDAL\obj\Debug\net6.0\DashboardDAL.genruntimeconfig.cache

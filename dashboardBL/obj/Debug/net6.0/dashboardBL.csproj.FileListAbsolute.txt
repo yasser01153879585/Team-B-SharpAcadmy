@@ -1,0 +1,17 @@
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\bin\Debug\net6.0\dashboardBL.deps.json
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\bin\Debug\net6.0\dashboardBL.runtimeconfig.json
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\bin\Debug\net6.0\dashboardBL.dll
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\bin\Debug\net6.0\ref\dashboardBL.dll
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\bin\Debug\net6.0\dashboardBL.pdb
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\bin\Debug\net6.0\DashboardDAL.dll
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\bin\Debug\net6.0\DashboardDAL.pdb
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\obj\Debug\net6.0\dashboardBL.csproj.AssemblyReference.cache
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\obj\Debug\net6.0\dashboardBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\obj\Debug\net6.0\dashboardBL.AssemblyInfoInputs.cache
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\obj\Debug\net6.0\dashboardBL.AssemblyInfo.cs
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\obj\Debug\net6.0\dashboardBL.csproj.CoreCompileInputs.cache
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\obj\Debug\net6.0\dashboardBL.csproj.CopyComplete
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\obj\Debug\net6.0\dashboardBL.dll
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\obj\Debug\net6.0\ref\dashboardBL.dll
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\obj\Debug\net6.0\dashboardBL.pdb
+C:\Users\yasser\source\repos\DashBoardProject\dashboardBL\obj\Debug\net6.0\dashboardBL.genruntimeconfig.cache
